@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Benny
+- 🕺 I do "modelling" 😗 and I like to dance 
 - 👀 I’m interested in data science, machine learning and AI
 - 🌱 I’m currently learning the mentioned above
 
